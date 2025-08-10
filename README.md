@@ -1,59 +1,34 @@
-# Hi there, I'm Mohammed Amir 👋
+<h1 align="center">Hi 👋, I'm Mohammed Amir</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=2E9EF7&center=true&vCenter=true&width=900&lines=AWS+Certified+|+CCNA+Certified+|+Cloud+|+DevOps+|+Networking)](https://git.io/typing-svg)
 
-💻 **Cloud Support Engineer | AWS Certified | Networking Professional**  
-🌏 Based in India | Passionate about Cloud, DevOps, and Automation  
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🏆 AWS Certified Cloud Practitioner (Perfect Score: 1000/1000)  
-- 🎓 Cisco Certified Network Associate (CCNA)  
-- 📌 2 years of NOC experience monitoring data centers & banking infrastructure  
-- 🛠 Skilled in AWS, Docker, Kubernetes, GitHub, Networking, Python, and Shell Scripting  
-- 💡 Always exploring new cloud technologies and building practical projects  
 
----
+I'm an Aspiring Cloud Engineer with 2 years of IT experience, skilled in infrastructure L1 monitoring and troubleshooting.
 
-## 🛠 Tech Stack
-**Cloud & DevOps:** AWS (EC2, S3, VPC, IAM, ECS), Docker, Kubernetes, Jenkins  
-**Networking:** Routing, Switching, Security Groups, L2/L3 Troubleshooting  
-**Programming & Tools:** Python, Shell, Git, GitHub, JSON, YAML  
-**Other:** CI/CD, Infrastructure as Code, Monitoring, Linux  
+- Actively upskilling in AWS Cloud and DevOps tools to transition into a cloud-focused role.
 
----
+- 🔭 Currently working on Cloud and DevOps projects to upskill my skills
 
-## 📜 Certifications
-- 🏅 **AWS Certified Cloud Practitioner (CLF-C02)**  
-- 🏅 **CCNA - Cisco Certified Network Associate**
+- 🌱 Always learning new tools, automation techniques, and emerging technologies
 
----
+- 👯 Open to collaborate on cloud, networking, and DevOps-related projects
 
-## 🎓 Courses Completed
-- **AWS Cloud Support Associate** – Coursera  
-- **Kubernetes & Docker** – KodeKloud  
-- **Python** – Cisco Networking Academy  
-
----
-
-## 📂 Projects
-- **CI/CD Pipeline with Jenkins, Docker & AWS**  
-  _Automated build, security scan (Trivy), and deployment of a resume website via ECS._
+💬 Ask me about AWS Cloud, Linux, Kubernetes, Docker, Networking, and IT Operations
   
-- **VPC Peering in AWS**  
-  _Connected multiple VPCs for secure communication across environments._
+- 📫 How to reach me **amirmohammed15@gmail.com**
+
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
   
-- **Hosting Static Website on Amazon S3**  
-  _Deployed a fast, cost-effective static site using S3 and CloudFront._
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amirmohammed1282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirmohammed1282" height="30" width="40" /></a>
+</p>
 
----
-
-## 📊 GitHub Stats
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
