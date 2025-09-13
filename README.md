@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-I'm an Aspiring Cloud Engineer with 2 years of IT experience, skilled in infrastructure L1 monitoring and troubleshooting.
+I'm an Aspiring Devops Engineer with 2 years of IT experience, skilled in infrastructure L1 monitoring and troubleshooting.
 
-- Actively upskilling in AWS Cloud and DevOps tools to transition into a cloud-focused role.
+- Actively upskilling in AWS Cloud and DevOps tools to transition into a Devops-focused role.
 
 - 🔭 Currently working on Cloud and DevOps projects to upskill my skills
 
